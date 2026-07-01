@@ -18,8 +18,8 @@ Developers don't need Python installed to run DevClean. Simply grab the pre-comp
 
 | Operating System | File Type | Download Link |
 | :--- | :--- | :--- |
-| 🪟 **Windows** | `.exe` Binary | [Download via GitHub Releases]https://github.com/steblajerik-debug/devclean/releases/tag/devclean|
-| 🐧 **Linux** | Standalone Executable | [Download via GitHub Releases]https://github.com/steblajerik-debug/devclean/releases/tag/devclean|
+| 🪟 **Windows** | `.exe` Binary | https://github.com/steblajerik-debug/devclean/releases/tag/devclean |
+| 🐧 **Linux** | Standalone Executable | https://github.com/steblajerik-debug/devclean/releases/tag/devclean |
 
 ### 🛠️ How to run on Linux:
 ```bash
